@@ -1,2 +1,2 @@
-# kdvTutar-hesaplay-c-
+# kdv-Tutar-hesaplayıcı-
 KDV tutarı Hesaplayan Program
